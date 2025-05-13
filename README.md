@@ -3,7 +3,6 @@ I’ve taken Gene Sharp’s 198 Methods and formatted them in a JSON schema that
 
 I intend this to be an all-purpose JSON file, supporting the development of video tagging and analysis applications. Its goal is to provide a common vocabulary for tagging based on primary source material, find and identify patterns in visually recorded human behavior during moments of social contention. 
 Sources: Consolidated taxonomy consists of two taxonomies cleaned up, combined, and integrated using Grok 3.0 prompts. 
-![image](https://github.com/user-attachments/assets/89d151bd-586f-4355-bb40-defd45110158)
 
 The schema sources:
 Albert Einstein Institute: “198 METHODS OF NONVIOLENT ACTION” https://www.brandeis.edu/peace-conflict/pdfs/198-methods-non-violent-action.pdf
