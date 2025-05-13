@@ -8,3 +8,4 @@ The schema sources:
 Albert Einstein Institute: “198 METHODS OF NONVIOLENT ACTION” https://www.brandeis.edu/peace-conflict/pdfs/198-methods-non-violent-action.pdf
 ICNC: “Civil Resistance Tactics in the 21st Century”, https://www.nonviolent-conflict.org/wp-content/uploads/2021/03/Civil-Resistance-Tactics-in-the-21st-Century-Monograph.pdf![image](https://github.com/user-attachments/assets/b0183752-c9bd-4bb2-98a4-bd53f7d7f87a)
 
+Contact me with any questions: vapidlibrarian.predict009@passinbox.com
