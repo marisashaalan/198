@@ -1,7 +1,7 @@
 # 198
 I’ve taken Gene Sharp’s 198 Methods and formatted them in a JSON schema that maintains continuity with the 1973 original text. I’ve integrated recent updates to the original, including methods informed by recent and developments, like the internet and social media.  
 
-I intend this to be an all-purpose JSON file, supporting the development of video tagging and analysis applications. Its goal is to provide a common vocabulary for tagging based on primary source material, find and identify patterns in visually recorded human behavior during moments of social contention. 
+I intend this to be an all-purpose JSON file, supporting the development of video tagging and analysis applications. Its goal is to provide a common vocabulary for tagging based on primary source material. 
 Sources: Consolidated taxonomy consists of two taxonomies cleaned up, combined, and integrated using Grok 3.0 prompts. 
 
 The schema sources:
